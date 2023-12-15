@@ -1,8 +1,3 @@
-# Octave Engineering
-
-This repo contains a skeleton React application that is used for our on-site interview. 
-Please clone and install the necessary dependencies prior to your interview.
-
 ## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
