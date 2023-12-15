@@ -1,0 +1,16 @@
+.card{
+    border: 1px solid black;
+    height: 400px;
+    width: 200px;
+    margin: 10px;
+}
+
+.card-title{
+    border: 1px solid black;
+    border-radius: 10%;
+}
+
+.results{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
